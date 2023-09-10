@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hannliu
 - 👀 I’m interested in Mathematics, Computer Science, Data Science, and Investment Analysis.
-- 🌱 I’m currently learning html, css, and Javascript.
+- 🌱 I’m currently learning Java.
 - 💞️ I’m looking to collaborate on data analysis projects and/or ML projects. Also, I'd be willing to participate in all kinds of contests, including case competitions.
 - 📫 Feel free to reach me through my email: liuhannah@gmail.com
 
